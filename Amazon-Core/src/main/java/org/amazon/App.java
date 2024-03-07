@@ -1,7 +1,7 @@
 package org.amazon;
 
 /**
- * Hello world i am alway freeme!
+ * Hello world !
  *
  */
 public class App 
